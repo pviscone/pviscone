@@ -4,10 +4,10 @@
 #### Top Repositories
 
 <a href="https://github.com/pviscone/ArcHEP">
-  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=ArcHEP&show_owner=true" />
+  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=ArcHEP" />
 </a>
 <a href="https://github.com/pviscone/MLPy">
-  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=MLPy&show_owner=true" />
+  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=MLPy" />
 </a>
 
 <br />
