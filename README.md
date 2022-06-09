@@ -14,10 +14,10 @@
 <br />
 <br />
 
-<a href="https://github.com/pviscone/ArcHEP">
+<a href="https://github.com/pviscone/flowmodoro">
   <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=flowmodoro" />
 </a>
-<a href="https://github.com/pviscone/MLPy">
+<a href="https://github.com/pviscone/TrackG4">
   <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=TrackG4" />
 </a>
 
