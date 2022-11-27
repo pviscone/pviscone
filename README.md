@@ -1,8 +1,16 @@
-| <a href="[https://github.com/pviscone/github-readme-stats"><img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api?username=pviscone&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide_rank=true&count_private=true](https://github-readme-stats.vercel.app/api?username=pviscone&count_private=true&show_icons=true&count_private=true&include_all_commits=true)" alt="pviscone's github stats" /></a> | <a href="https://github.com/pviscone/github-readme-stats"><img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/top-langs/?username=pviscone&layout=compact&theme=default&hide_border=true&hide=Tcl%2Cjupyter%20notebook%2Cmakefile%2Ccss%2Chtml%2Cjavascript%2Ctex%2Cperl&langs_count=8&exclude_repo=Cpp-Repo-Template%2CArcHEP" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
+<p align="center">
+ <a href="[https://github.com/pviscone/github-readme-stats"><img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api?username=pviscone&show_icons=true&include_all_commits=true&theme=default&hide_border=true&hide_rank=true&count_private=true](https://github-readme-stats.vercel.app/api?username=pviscone&count_private=true&show_icons=true&count_private=true&include_all_commits=true)" alt="pviscone's github stats" /></a>  <a href="https://github.com/pviscone/github-readme-stats"><img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/top-langs/?username=pviscone&layout=compact&theme=default&hide_border=true&hide=Tcl%2Cjupyter%20notebook%2Cmakefile%2Ccss%2Chtml%2Cjavascript%2Ctex%2Cperl&langs_count=8&exclude_repo=Cpp-Repo-Template%2CArcHEP" /></a> 
+  <br />
+<br />
+<a href="">
+  <img align="center" src="https://media2.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47q1lq31adahjdz7p18rwqsbbj8w2t8j3dn58r9eq0&rid=giphy.gif&ct=g" />
+</a>
+  </p>
+  
+<p align="center">
+  <strong>Top Repositories</strong></h1>
+  <br />
+  <br />
 <a href="https://github.com/pviscone/ArcHEP">
   <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=ArcHEP" />
 </a>
@@ -22,5 +30,5 @@
   <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=MLPy" />
 </a>
 
-
+</p>
 
