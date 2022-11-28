@@ -1,6 +1,6 @@
 <p align="center">
  <a href="">
-  <img align="center" src="https://media2.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47q1lq31adahjdz7p18rwqsbbj8w2t8j3dn58r9eq0&rid=giphy.gif&ct=g" />
+  <img align="center" src="https://media.tenor.com/mfVJ0WA3go0AAAAC/arch-linux-arch-btw.gif" width=350 />
 </a>
   <br />
 <br />
