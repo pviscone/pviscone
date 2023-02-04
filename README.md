@@ -4,28 +4,4 @@
 
   </p>
   
-<p align="center">
-  <strong>Top Repositories</strong></h1>
-  <br />
-  <br />
-<a href="https://github.com/pviscone/ArcHEP">
-  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=ArcHEP" />
-</a>
-<a href="https://github.com/pviscone/TrackG4">
-  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=TrackG4" />
-</a>
-
-
-
-<br />
-<br />
-
-<a href="https://github.com/pviscone/flowmodoro">
-  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=flowmodoro" />
-</a>
-<a href="https://github.com/pviscone/MLPy">
-  <img align="center" src="https://github-readme-stats-blue-three-52.vercel.app/api/pin/?username=pviscone&repo=MLPy" />
-</a>
-
-</p>
 
